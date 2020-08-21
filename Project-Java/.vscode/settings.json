@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\ASUS\\Desktop\\mysql-connector-java-8.0.20\\mysql-connector-java-8.0.20\\mysql-connector-java-8.0.20.jar"
+    ],
+    "maven.view": "flat"
+}
